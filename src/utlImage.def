@@ -1,0 +1,6 @@
+LIBRARY	"utlImage"
+
+EXPORTS
+	queryPlugInfo
+	pluginLoad
+	pluginUnload
